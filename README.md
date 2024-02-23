@@ -1,7 +1,7 @@
 # Turing Machine Simulators
 Python is Turing-Complete after all...
 
-[https://pypi.org/project/turingmachines24/0.1/](https://pypi.org/project/turingmachines24/0.1/)
+[https://pypi.org/project/turingmachines24/](https://pypi.org/project/turingmachines24/)
 
 ### Installation
 
