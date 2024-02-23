@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="turing",
+    name="turing_24",
     description="A simple Turing Machine simulator.",
     author="Daniel Öman",
     author_email="dsoman24@gmail.com",
