@@ -1,8 +1,17 @@
 # Turing Machine Simulators
 Python is Turing-Complete after all...
 
-[https://pypi.org/project/turing-24/0.1/](https://pypi.org/project/turing-24/0.1/)
+[https://pypi.org/project/turingmachines24/0.1/](https://pypi.org/project/turingmachines24/0.1/)
 
 ### Installation
 
-`pip install turing-24`
+`pip install turingmachines24`
+
+
+### How to update:
+
+Change version number
+
+`python setup.py sdist bdist_wheel`
+
+`twine upload --skip-existing dist/*`
