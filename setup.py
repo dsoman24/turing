@@ -6,6 +6,6 @@ setup(
     author="Daniel Öman",
     author_email="dsoman24@gmail.com",
     url="https://github.com/dsoman24/turing",
-    version="0.1",
+    version="0.2",
     packages=find_packages(),
 )
