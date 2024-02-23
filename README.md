@@ -12,6 +12,8 @@ Python is Turing-Complete after all...
 
 Change version number
 
+Delete everything in dist
+
 `python setup.py sdist bdist_wheel`
 
 `twine upload --skip-existing dist/*`
